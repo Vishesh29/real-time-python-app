@@ -32,3 +32,9 @@ pip install -r requirements.txt
 
 [email](https://docs.python.org/3/library/email.html) : The email package is a library for managing email messages. It is specifically not designed to do any sending of email messages to SMTP (RFC 2821), NNTP, or other servers; those are functions of modules such as smtplib and nntplib. 
 
+## Documentation for hashlib library for Password checker:
+[haslib](https://docs.python.org/3/library/hashlib.html) : This module implements a common interface to many different secure hash and message digest algorithms. Included are the FIPS secure hash algorithms SHA1, SHA224, SHA256, SHA384, SHA512, the SHA-3 series, as well as RSA’s MD5 algorithm.
+
+[SHA1 Hash Generator](https://passwordsgenerator.net/sha1-hash-generator/) : This online tool allows you to generate the SHA1 hash from any string. SHA1 is more secure than MD5. You can generate the sha1 checksum of your files to verify the identity of them later, or generate the SHA1 hashes of your users' passwords to prevent them from being leaked.
+
+[Pwned Password](https://haveibeenpwned.com/Passwords) : To help the user check if the password is pawned before or not. This exposure makes them unsuitable for ongoing use as they're at much greater risk of being used to take over other accounts.
