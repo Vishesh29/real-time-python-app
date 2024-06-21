@@ -23,3 +23,6 @@ pip install -r requirements.txt
 
 ## Documentation for PyPDF2 library for PDF operations:
 [PyPDF2](https://pypdf2.readthedocs.io/en/3.x/) : PyPDF2 is a free and open-source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. It can also add custom data, viewing options, and passwords to PDF files. PyPDF2 can retrieve text and metadata from PDFs as well.
+
+## Documentation for PIL library for Image Processing:
+[PIL](https://pillow.readthedocs.io/en/stable/): The Python Imaging Library adds image processing capabilities to your Python interpreter. This library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities.
