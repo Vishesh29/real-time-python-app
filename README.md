@@ -35,13 +35,14 @@ pip install -r requirements.txt
 ## Documentation for PIL library for Image Processing:
 [PIL](https://pillow.readthedocs.io/en/stable/): The Python Imaging Library adds image processing capabilities to your Python interpreter. This library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities.
 
+
 ## Documentation for smtplib and email for Email Processing:
 [smtplib](https://docs.python.org/3/library/smtplib.html) : The smtplib module defines an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon. For details of SMTP and ESMTP operation, consult RFC 821 (Simple Mail Transfer Protocol) and RFC 1869 (SMTP Service Extensions).
 
 [email](https://docs.python.org/3/library/email.html) : The email package is a library for managing email messages. It is specifically not designed to do any sending of email messages to SMTP (RFC 2821), NNTP, or other servers; those are functions of modules such as smtplib and nntplib. 
 
 ## Documentation for hashlib library for Password checker:
-[haslib](https://docs.python.org/3/library/hashlib.html) : This module implements a common interface to many different secure hash and message digest algorithms. Included are the FIPS secure hash algorithms SHA1, SHA224, SHA256, SHA384, SHA512, the SHA-3 series, as well as RSA’s MD5 algorithm.
+[hashlib](https://docs.python.org/3/library/hashlib.html) : This module implements a common interface to many different secure hash and message digest algorithms. Included are the FIPS secure hash algorithms SHA1, SHA224, SHA256, SHA384, SHA512, the SHA-3 series, as well as RSA’s MD5 algorithm.
 
 [SHA1 Hash Generator](https://passwordsgenerator.net/sha1-hash-generator/) : This online tool allows you to generate the SHA1 hash from any string. SHA1 is more secure than MD5. You can generate the sha1 checksum of your files to verify the identity of them later, or generate the SHA1 hashes of your users' passwords to prevent them from being leaked.
 
