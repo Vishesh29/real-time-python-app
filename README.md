@@ -2,6 +2,14 @@
 
 This repository contains a Python application designed for real-time data processing and analysis. The application leverages Python's capabilities to handle data streams efficiently, making it suitable for real-time monitoring, analytics, or other dynamic data-driven tasks.
 
+The Python applications in the repository include:
+
+- Language Translation: Translates text from one language to another.
+- Email Processing: Sends emails to recipients.
+- Password Checker: Evaluates the uniqueness of passwords.
+- PDF Operations: Merges, rotates, or adds watermarks to PDF files.
+- Image Processing: Performs tasks such as blurring, smoothing, rotating, cropping, creating thumbnails, converting to grayscale, and resizing images.
+
 ## Features
 - Real-time data processing
 - Python-based architecture for flexibility and scalability
@@ -38,3 +46,6 @@ pip install -r requirements.txt
 [SHA1 Hash Generator](https://passwordsgenerator.net/sha1-hash-generator/) : This online tool allows you to generate the SHA1 hash from any string. SHA1 is more secure than MD5. You can generate the sha1 checksum of your files to verify the identity of them later, or generate the SHA1 hashes of your users' passwords to prevent them from being leaked.
 
 [Pwned Password](https://haveibeenpwned.com/Passwords) : To help the user check if the password is pawned before or not. This exposure makes them unsuitable for ongoing use as they're at much greater risk of being used to take over other accounts.
+
+## Documentation for translate library for language translation:
+[translate](https://translate-python.readthedocs.io/en/latest/) : Translate is a simple but powerful translation tool written in python with with support for multiple translation providers.
