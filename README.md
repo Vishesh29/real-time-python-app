@@ -65,7 +65,7 @@ This Streamlit app allows users to translate text and text files between multipl
 
 ### How to use:
 ```
-streamlit run app.py
+streamlit run streamlit_translate.py
 ```
 
 - Navigate to the App in Your Browser: Open the URL provided by Streamlit (typically http://localhost:8501).
