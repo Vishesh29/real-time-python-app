@@ -2,4 +2,3 @@ PyPDF2
 pillow
 requests
 translate
-streamlit
